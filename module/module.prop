@@ -1,0 +1,6 @@
+id=my_whiteouts
+name=my_whiteouts
+version=v1
+versionCode=100
+author=xx
+description=Globally mounted whiteouts via OverlayFS.
